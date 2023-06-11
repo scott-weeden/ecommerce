@@ -1,0 +1,3 @@
+[submodule "templating"]
+	path = templating
+	url = https://github.com/dotnet/templating
