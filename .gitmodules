@@ -1,3 +1,16 @@
 [submodule "templating"]
 	path = templating
 	url = https://github.com/dotnet/templating
+	branch = main
+[submodule "ecommerce-02"]
+	path = ecommerce-02
+	url = https://github.com/VirtoCommerce/vc-platform
+	branch = dev
+[submodule "ecommerce-01"]
+	path = ecommerce-01
+	url = https://github.com/nopSolutions/nopCommerce.git
+	branch = develop
+[submodule "ecommerce-03"]
+	path = ecommerce-03
+	url = https://github.com/smartstore/smartstore.git
+	branch = master
